@@ -2,10 +2,6 @@
  
  # Projeto realizado na NLW#2
 
- 1º "npm install express"
+ 1º "npm install"
 
- 2º "npm install nodemon -D"
-
- 3º "npm install nunjucks"
-
- 4º "npm run dev"
+ 2º "npm run dev"
